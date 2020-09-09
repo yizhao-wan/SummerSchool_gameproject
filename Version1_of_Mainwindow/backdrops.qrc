@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/backdrops/backdrop00.jpg</file>
+        <file>images/backdrops/backdrop01.jpg</file>
+        <file>images/backdrops/backdrop02.jpg</file>
+        <file>images/backdrops/backdrop03.jpg</file>
+        <file>images/backdrops/backdrop04.jpg</file>
+        <file>images/backdrops/backdrop05.jpg</file>
+        <file>images/backdrops/backdrop06.jpg</file>
+        <file>images/backdrops/backdrop07.jpg</file>
+        <file>images/backdrops/backdrop08.jpg</file>
+        <file>images/backdrops/backdrop09.jpg</file>
+        <file>images/backdrops/backdrop10.jpg</file>
+        <file>images/backdrops/backdrop11.jpg</file>
+        <file>images/backdrops/backdrop12.jpg</file>
+        <file>images/backdrops/backdrop13.jpg</file>
+        <file>images/backdrops/backdrop14.jpg</file>
+        <file>images/backdrops/backdrop15.jpg</file>
+        <file>images/backdrops/backdrop16.jpg</file>
+    </qresource>
+</RCC>
